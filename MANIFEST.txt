@@ -1,0 +1,40 @@
+Hermes Agent Backup
+Timestamp: 20260822-120034
+Host: 2e074498623e
+
+Files:
+total 860
+drwxr-xr-x 5 root root   4096 Aug 22 12:00 .
+drwxrwxrwt 1 root root   4096 Aug 22 12:00 ..
+-rw-r--r-- 1 root root     74 Aug 22 12:00 MANIFEST.txt
+-rw------- 1 root root    513 Aug 22 12:00 SOUL.md
+-rw------- 1 root root    855 Aug 22 12:00 auth.json
+-rw------- 1 root root    212 Aug 22 12:00 channel_directory.json
+-rw------- 1 root root   2244 Aug 22 12:00 config.yaml
+-rw-r--r-- 1 root root 819917 Aug 22 12:00 databases.tar.gz
+-rw-r--r-- 1 root root    336 Aug 22 12:00 env.txt
+-rw------- 1 root root    399 Aug 22 12:00 gateway_state.json
+drwxr-xr-x 2 root root   4096 Aug 22 12:00 memories
+-rw------- 1 root root   2069 Aug 22 12:00 provider_models_cache.json
+drwxr-xr-x 2 root root   4096 Aug 22 12:00 scripts
+-rw------- 1 root root   1733 Aug 22 12:00 sessions.json
+drwxr-xr-x 2 root root   4096 Aug 22 12:00 skills
+
+Memories:
+total 12
+drwxr-xr-x 2 root root 4096 Aug 22 12:00 .
+drwxr-xr-x 5 root root 4096 Aug 22 12:00 ..
+-rw------- 1 root root  476 Aug 22 12:00 USER.md
+-rw-r--r-- 1 root root    0 Aug 22 12:00 USER.md.lock
+
+Skills:
+total 8
+drwxr-xr-x 2 root root 4096 Aug 22 12:00 .
+drwxr-xr-x 5 root root 4096 Aug 22 12:00 ..
+
+Databases archive:
+state.db
+kanban.db
+cron/executions.db
+
+Total size: 864K
