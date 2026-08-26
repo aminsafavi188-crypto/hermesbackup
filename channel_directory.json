@@ -1,0 +1,13 @@
+{
+  "updated_at": "2026-08-26T11:58:45.925234",
+  "platforms": {
+    "telegram": [
+      {
+        "id": "8542047964",
+        "name": "MOAmin",
+        "type": "dm",
+        "thread_id": null
+      }
+    ]
+  }
+}

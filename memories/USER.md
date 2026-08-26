@@ -1,0 +1,3 @@
+Persian/Farsi speaker (امین). Has deep emotional attachment to someone named Sara. Appreciates empathetic, warm responses alongside technical help. Environment: Hermes on root-22 locked Linux server, /data workdir. Has GitHub backup to github.com/aminsafavi188-crypto/hermesbackup.
+§
+User is Persian/Farsi speaker (امین). Prefers responses in Persian. Environment: Hermes on root-22 locked Linux server with /data as workdir. Has automated 12-hourly backup to GitHub.
